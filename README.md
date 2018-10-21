@@ -1,5 +1,5 @@
-# hello-world
-my first github repository
-now I make a commit on 20th Oct. 2018
-with this update issue #2 will bu closed
-GitHub desktop example
+# hello-world<br>
+my first github repository<br>
+now I make a commit on 20th Oct. 2018<br>
+with this update issue #2 will be closed<br>
+GitHub desktop example<br>
